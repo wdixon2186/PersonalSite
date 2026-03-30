@@ -98,7 +98,7 @@ function Current() {
 
         <p className="current-panel-text" style={styles.panelText}>
           Born and raised in Colorado Springs CO, I obtained a Bachelors degree
-          in Film Studies from Azusa Pacifice University. After I had trouble
+          in Film Studies from Azusa Pacific University. After I had trouble
           finding work, I ended up moving back home and earned a full stack
           engineering certificate from General Assembly.
         </p>
